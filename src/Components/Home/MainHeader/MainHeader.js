@@ -43,7 +43,7 @@ const MainHeader = () => {
                                 ]}
                             />
                         </p>
-                            <a class="btn btn-info my-4  btn-lg" href="https://drive.google.com/file/d/1QSfNuYqFWJB6dDyHruftKXGQ-ToBJgJt/view?usp=sharing" target="_blank">My Resume</a>
+                            <a class="btn btn-info my-4  btn-lg" href="https://drive.google.com/file/d/1yi4zszR1HkX03HDWQYotNn_XtxGP1R4t/view?usp=sharing" target="_blank">My Resume</a>
                     </div>
                         <div className="col-md-2" >
                             <img src={image} alt="" style={{ height: 500 }} className="rounded-circle" />

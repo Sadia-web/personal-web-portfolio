@@ -17,7 +17,7 @@ const Navbar = () => {
                             <a class="nav-link mr-4 text-secondary" href="/blogs">BLOG</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link mr-4 text-secondary" target="_blank" href="https://drive.google.com/file/d/1QSfNuYqFWJB6dDyHruftKXGQ-ToBJgJt/view?usp=sharing">RESUME</a>
+                            <a class="nav-link mr-4 text-secondary" target="_blank" href="https://drive.google.com/file/d/1yi4zszR1HkX03HDWQYotNn_XtxGP1R4t/view?usp=sharing">RESUME</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link mr-4 text-secondary" href="/about">ABOUT ME</a>

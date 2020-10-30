@@ -28,7 +28,7 @@ const Contact = () => {
                             <p><FontAwesomeIcon icon={faPhoneAlt} /> +88018XXXXXXXX</p>
                             <p><FontAwesomeIcon icon={faEnvelope} /> sadiamim354@gmail.com</p>
 
-                            <a href="https://www.linkedin.com/in/sadia-mim-1136371ba/" target="_blank" className="btn btn-primary mr-2">
+                            <a href="https://www.linkedin.com/in/sadia-sultana-1136371ba/" target="_blank" className="btn btn-primary mr-2">
                                 <FontAwesomeIcon icon={faLinkedin} /><span className="ml-2">LinkedIn</span>
                             </a>
                             <a href="https://github.com/Sadia-web" target="_blank" className="btn btn-dark mr-2">
