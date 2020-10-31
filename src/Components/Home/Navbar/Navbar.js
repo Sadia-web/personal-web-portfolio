@@ -4,7 +4,7 @@ const Navbar = () => {
     return (
         <div className="container">
             <nav class="navbar navbar-expand-lg navbar-light bg-transparent font-weight-bold py-4">
-                <a class="navbar-brand text-secondary " href="/">Sadia Sultana</a>
+                <a class="navbar-brand text-secondary ml-3" href="/">Home</a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
@@ -14,7 +14,7 @@ const Navbar = () => {
                             <a class="nav-link mr-4 text-secondary" href="/home/#my-work">PROJECTS</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link mr-4 text-secondary" href="/blogs">BLOG</a>
+                            <a class="nav-link mr-4 text-secondary" href="/blog">BLOG</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link mr-4 text-secondary" target="_blank" href="https://drive.google.com/file/d/1yi4zszR1HkX03HDWQYotNn_XtxGP1R4t/view?usp=sharing">RESUME</a>

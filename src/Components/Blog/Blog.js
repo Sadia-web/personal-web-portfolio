@@ -1,16 +1,16 @@
 import React from 'react';
 import Navbar from '../Home/Navbar/Navbar';
-import error from '../../images/error.jpg';
+import blogs from '../../images/blog.png';
 
-const NoMatch = () => {
+const Blog = () => {
     return (
-        <div>
+        <div>   
             <Navbar></Navbar>
             <div className="text-center">
-                <img src={error} className="img-fluid alt=" />
+                <img src={blogs} className="img-fluid" alt=""/>
             </div>
         </div>
     );
 };
 
-export default NoMatch;<h5>Sorry!</h5>
+export default Blog;

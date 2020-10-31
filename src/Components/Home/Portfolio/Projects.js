@@ -47,12 +47,16 @@ const Projects = () => {
     return (
 
         <div className="container">
-            <h1 className="text-center py-2 " style={{ fontWeight: 700 }}>PROJECTS</h1>
+
+            <h1 className="text-center py-5 " style={{ fontWeight: 700 }}>PROJECTS</h1>
+
             <div className="row mb-5" id="my-work">
                 {
                     fakeData.map(project => <Project project={project}></Project>)
                 }
-                <button className="btn btn-success w-100 font-weight-bold">VIEW ALL PROJECTS</button>
+            </div>
+            <div>
+                <a href="/allProjects" className="btn btn-success w-100 font-weight-bold">VIEW ALL PROJECTS</a>
             </div>
         </div>
     );
